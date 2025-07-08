@@ -55,3 +55,19 @@ By applying machine learning models to historical data, teams can identify probl
 Summary
 
 Both examples demonstrate how AI shifts deployment from reactive to proactive management, resulting in faster, more reliable software releases.
+
+ETHICAL REFLECTIONS
+
+Potential Biases in Dataset:
+
+Underrepresentation of certain demographics
+Historical bias in labeling
+Sampling bias from specific populations
+
+
+IBM AI Fairness 360 Solutions:
+
+Bias detection metrics
+Preprocessing algorithms
+In-processing fairness constraints
+Post-processing calibration
